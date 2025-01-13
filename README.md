@@ -4,3 +4,4 @@ The Iris dataset, widely used in the field of machine learning, contains data on
 
 In this project, we apply data preprocessing, feature scaling, model training, and evaluation to build a robust Random Forest Classifier for accurate classification. The project also includes visualizations to explore relationships between features and evaluate model performance through metrics such as accuracy, precision, recall, and the confusion matrix.
 By leveraging machine learning, this project aims to provide insights into the classification of Iris flowers, offering a solid understanding of feature importance, model evaluation, and the ability to distinguish between different species of Iris flowers
+![image](https://github.com/user-attachments/assets/8ded5320-640d-4804-8501-355b1d849721)
